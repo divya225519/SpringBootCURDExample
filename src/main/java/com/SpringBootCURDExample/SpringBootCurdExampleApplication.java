@@ -12,6 +12,7 @@ public class SpringBootCurdExampleApplication {
 		System.out.println("Fourth commi from git repository.......");
 		System.out.println("divya commit from intillej..........");
 		System.out.println("divya commit from intillej 1111............");
+		System.out.println("satish commit from git repo ...........");
 	}
 
 }
