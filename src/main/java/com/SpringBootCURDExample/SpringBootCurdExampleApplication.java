@@ -13,6 +13,7 @@ public class SpringBootCurdExampleApplication {
 		System.out.println("divya commit from intillej..........");
 		System.out.println("divya commit from intillej 1111............");
 		System.out.println("satish commit from git repo ...........");
+		System.out.println("pulllll ...........");
 	}
 
 }
