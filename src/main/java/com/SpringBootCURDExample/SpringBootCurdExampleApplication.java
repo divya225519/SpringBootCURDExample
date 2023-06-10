@@ -10,7 +10,7 @@ public class SpringBootCurdExampleApplication {
 		SpringApplication.run(SpringBootCurdExampleApplication.class, args);
 		System.out.println("third commit.......");
 		System.out.println("Fourth commi from git repository.......");
-		System.out.println("divya commit from intillej.......");
+		System.out.println("divya commit from intillej..........");
 	}
 
 }
