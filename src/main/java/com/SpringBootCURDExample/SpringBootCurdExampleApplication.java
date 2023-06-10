@@ -15,7 +15,7 @@ public class SpringBootCurdExampleApplication {
 		System.out.println("satish commit from git repo ...........");
 		System.out.println("pulllll ...........");
 		System.out.println("fetch ...........");
-		System.out.println("fetch did not work ...........");
+		System.out.println("fetch did not work ..........");
 	}
 
 }
